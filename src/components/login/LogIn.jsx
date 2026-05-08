@@ -44,7 +44,7 @@ export default function LogIn() {
                         <div className="col-12 d-flex align-items-center justify-content-center">
                             <div className="bg-white shadow border-0 rounded border-light p-4 p-lg-5 w-100 fmxw-500">
                                 <div className="text-center text-md-center mb-4 mt-md-0">
-                                    <h1 className="mb-0 h3">Sign In</h1>
+                                    <h1 className="mb-0 h3">Sign In /  Sign Up</h1>
                                 </div>
                                 <form className="mt-4" onSubmit={handleSubmit}>
                                     <div className="form-group mb-4">
