@@ -48,7 +48,7 @@ export default function LogIn() {
                                 </div>
                                 <form className="mt-4" onSubmit={handleSubmit}>
                                     <div className="form-group mb-4">
-                                        <label htmlFor="email">Your Username</label>
+                                        <label htmlFor="email">Your Username / Email</label>
                                         <div className="input-group">
                                             <span className="input-group-text" id="basic-addon1">
                                                 <svg
